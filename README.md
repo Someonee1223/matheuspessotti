@@ -17,17 +17,7 @@
 
 ### 🛠️ Technologies
 
-[![JS](https://shields.io)](https://mozilla.org)
-[![TS](https://shields.io)](https://typescriptlang.org)
-[![React](https://shields.io)](https://reactjs.org)
-[![Next](https://shields.io)](https://nextjs.org)
-[![Nest](https://shields.io)](https://nestjs.com)
-[![Node](https://shields.io)](https://nodejs.org)
-[![Prisma](https://shields.io)](https://prisma.io)
-[![HTML](https://shields.io)](https://mozilla.org)
-[![CSS](https://shields.io)](https://mozilla.org)
-
-
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
