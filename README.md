@@ -17,8 +17,10 @@
 
 ### 🛠️ Technologies
 
-<div><img src="https://githubusercontent.com" alt="Leo-JS" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-TS" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-React" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-Next" width="40" height="30"><img src="https://nestjs.com" alt="Leo-Nest" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-Node" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-Prisma" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-HTML" width="40" height="30"><img src="https://githubusercontent.com" alt="Leo-CSS" width="40" height="30"></div>
 
+| | | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://githubusercontent.com" alt="JS" width="40" height="30"> | <img src="https://githubusercontent.com" alt="TS" width="40" height="30"> | <img src="https://githubusercontent.com" alt="React" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Next" width="40" height="30"> | <img src="https://nestjs.com" alt="Nest" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Node" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Prisma" width="40" height="30"> | <img src="https://githubusercontent.com" alt="HTML" width="40" height="30"> | <img src="https://githubusercontent.com" alt="CSS" width="40" height="30"> |
 
 
 ---
