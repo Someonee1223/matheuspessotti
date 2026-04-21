@@ -17,10 +17,16 @@
 
 ### 🛠️ Technologies
 
+[![JS](https://shields.io)](https://mozilla.org)
+[![TS](https://shields.io)](https://typescriptlang.org)
+[![React](https://shields.io)](https://reactjs.org)
+[![Next](https://shields.io)](https://nextjs.org)
+[![Nest](https://shields.io)](https://nestjs.com)
+[![Node](https://shields.io)](https://nodejs.org)
+[![Prisma](https://shields.io)](https://prisma.io)
+[![HTML](https://shields.io)](https://mozilla.org)
+[![CSS](https://shields.io)](https://mozilla.org)
 
-| | | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://githubusercontent.com" alt="JS" width="40" height="30"> | <img src="https://githubusercontent.com" alt="TS" width="40" height="30"> | <img src="https://githubusercontent.com" alt="React" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Next" width="40" height="30"> | <img src="https://nestjs.com" alt="Nest" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Node" width="40" height="30"> | <img src="https://githubusercontent.com" alt="Prisma" width="40" height="30"> | <img src="https://githubusercontent.com" alt="HTML" width="40" height="30"> | <img src="https://githubusercontent.com" alt="CSS" width="40" height="30"> |
 
 
 ---
