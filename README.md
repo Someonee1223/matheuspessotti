@@ -8,7 +8,7 @@
 - Languages: **JavaScript (ES6+), TypeScript**
 - Frontend: **React.js, Next.js**
 - Backend: **Node.js (NestJS, Express)**
-- ORMs: **Prisma e TypeORM**
+- ORMs: **Prisma**
 - Databases: **PostgreSQL, MongoDB, MySQL**
 
 "Estou sempre em busca de aprimorar a nossa forma de programar, aplicando as melhores práticas e utilizando bibliotecas que otimizam o fluxo de desenvolvimento."
