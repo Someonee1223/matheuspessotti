@@ -21,19 +21,20 @@
 
 ---
 
-### 🛠️ Technologies
+### 🛠️ Tecnologias que Pratico e Ensino
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img alt="Leo-JS" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-TS" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-React" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-Next" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-Nest" height="30" width="40" src="https://nestjs.com">
-  <img alt="Leo-Node" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-Prisma" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-HTML" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="Leo-CSS" height="30" width="40" src="https://githubusercontent.com">
-</div>
+<p align="left">
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="typescript" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="nextjs" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="nestjs" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="prisma" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
+</p>
+
 
 ---
 
