@@ -44,17 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="github-readme-stats-eight-theta.vercel.app" />
-  <img height="180em" src="github-readme-stats-eight-theta.vercel.app" />
-</div>
-
-
-
----
-
 ### 🚀 Projetos em destaque
 
 - 🔗 **Tarefas**: [Repositório](https://github.com/leo-gomes-dev/boardTarefa) | Site: [Tarefas](https://tarefas.leogomesdev.com)
