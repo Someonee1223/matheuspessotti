@@ -60,4 +60,5 @@
 
 ### 👁️ Visitas no perfil
 
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge)
+
