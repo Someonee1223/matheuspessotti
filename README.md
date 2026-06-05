@@ -23,18 +23,7 @@
 
 ### 🛠️ Tecnologias que Pratico e Ensino
 
-<p align="left">
-  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="typescript" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="nextjs" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="nestjs" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="prisma" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
-</p>
-
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![NestJS](https://shields.io) ![NodeJS](https://shields.io) ![Prisma](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
 ---
 
@@ -50,12 +39,12 @@
 
 ### 🚀 Projetos JavaScript Full Stack & Materiais
 
-- 🔗 **Tarefas**: [Repositório](https://github.com) | Site: [Tarefas](https://leogomesdev.com)
-- 🔗 **Pneuma**: [Repositório](https://github.com) | Site: [Pneuma](https://leogomesdev.com)
-- 🔗 **Combustível**: [Repositório](https://github.com) | Site: [Calculadora de Combustível](https://leogomesdev.com)
-- 🔗 **Criptomoedas**: [Repositório](https://github.com) | Site: [Cripto App](https://leogomesdev.com)
-- 🔗 **Fluxo**: [Repositório](https://github.com) | Site: [Fluxo](https://leogomesdev.com)
-- 🔗 **Prime**:  [Repositório](https://github.com) | Site: [Prime](://leogomesdev.com )
+- 🔗 **Tarefas**: [Repositório](https://github.com) | Site: [Tarefas](https://tarefas.leogomesdev.com)
+- 🔗 **Pneuma**: [Repositório](https://github.com) | Site: [Pneuma](https://pneuma.leogomesdev.com)
+- 🔗 **Combustível**: [Repositório](https://github.com) | Site: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
+- 🔗 **Criptomoedas**: [Repositório](https://github.com) | Site: [Cripto App](https://criptomoedas.leogomesdev.com)
+- 🔗 **Fluxo**: [Repositório](https://github.com) | Site: [Fluxo](https://fluxo.leogomesdev.com)
+- 🔗 **Prime**: [Repositório](https://github.com) | Site: [Prime](https://prime.leogomesdev.com)
   
 - 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
 
@@ -63,4 +52,4 @@
 
 ### 👁️ Visitas no perfil
 
-<img align="center" src="https://komarev.com" alt="Profile Views" />
+![Profile Views](https://komarev.com)
