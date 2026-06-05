@@ -1,6 +1,6 @@
 ## 👋 Oi, Sou o Leo Gomes
 
-**Professor de Programação & Full Stack JavaScript Developer**
+**Professor de Gestão Tecnologica & Full Stack JavaScript Developer**
 
 "Formado em Análise e Desenvolvimento de Sistemas (ADS) e especialista na Stack JavaScript. Uno a vivência do mercado de desenvolvimento web com a docência, transformando códigos complexos em aulas didáticas, práticas e direto ao ponto."
 
