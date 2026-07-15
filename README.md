@@ -2,7 +2,7 @@
 
 **Professor de Gestão Tecnologica & Full Stack JavaScript Developer**
 
-"Formado em Análise e Desenvolvimento de Sistemas (ADS) e especialista na Stack JavaScript. Uno a vivência do mercado de desenvolvimento web com a docência, transformando códigos complexos em aulas didáticas, práticas e direto ao ponto."
+"Formando em Análise e Desenvolvimento de Sistemas (ADS) e especialista na Stack JavaScript. Uno a vivência do mercado de desenvolvimento web com a docência, transformando códigos complexos em aulas didáticas, práticas e direto ao ponto."
 
 ## 🧑‍🏫 Atuação Acadêmica & Ensino
 - 🚀 **Foco Didático:** Formação de programadores Full Stack (Front-end e Back-end).
