@@ -1,27 +1,27 @@
-## 👋 Oi, Sou o Leo Gomes
+## 👋 Hi, I'm Leo Gomes
 
-**Professor de Gestão Tecnologica & Full Stack JavaScript Developer**
+**Tech Management Professor & Full Stack JavaScript Engineer**
 
-"Formando em Análise e Desenvolvimento de Sistemas (ADS) e especialista na Stack JavaScript. Uno a vivência do mercado de desenvolvimento web com a docência, transformando códigos complexos em aulas didáticas, práticas e direto ao ponto."
+"Holding a degree in Systems Analysis and Development (ADS) and specializing in the JavaScript/TypeScript ecosystem. I bridge the gap between real-world software engineering and tech education—breaking down complex system architectures into clean, scalable, and highly maintainable code."
 
-## 🧑‍🏫 Atuação Acadêmica & Ensino
-- 🚀 **Foco Didático:** Formação de programadores Full Stack (Front-end e Back-end).
-- 📘 **Matérias que Ministro:** Programação Web, Lógica com JS/TS, Gestão Tecnológica e Informática.
-- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (ADS).
-- 📚 **Evolução:** Diversas certificações e cursos contínuos na área de engenharia de software.
+## 🧑‍🏫 Tech Leadership & Academic Background
+- 🚀 **Focus:** Training and mentoring Full Stack Developers (Front-end and Back-end production environments).
+- 📘 **Subjects I Teach:** Web Engineering, Logic with JS/TS, Tech Management, and Applied Computer Science.
+- 🎓 **Education:** B.S. in Systems Analysis and Development (ADS).
+- 📚 **Continuous Growth:** Active certifications and continuous learning focused on robust software engineering practices.
 
-## 💻 Minha Stack de Desenvolvimento & Ensino
+## 💻 Tech Stack & Teaching Framework
 - Languages: **JavaScript (ES6+), TypeScript**
 - Frontend: **React.js, Next.js**
 - Backend: **Node.js (NestJS, Express)**
-- ORMs: **Prisma**
+- ORMs/ODMs: **Prisma, TypeORM**
 - Databases: **PostgreSQL, MongoDB, MySQL**
 
-"Acredito que a melhor forma de aprender programação é construindo projetos reais e aplicando as boas práticas de mercado desde o primeiro dia de aula."
+"I firmly believe that the best way to master software engineering is by building real-world applications and applying industry-standard best practices from day one."
 
 ---
 
-### 🛠️ Tecnologias que Pratico e Ensino
+### 🛠️ Ecosystem & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -35,8 +35,8 @@
 
 ---
 
-## 🔗 "Conecte-se Comigo!"
-"Espaço aberto para alunos tirarem dúvidas, professores trocarem metodologias e empresas buscarem parcerias educacionais ou técnicas."
+## 🔗 Let's Connect!
+"Open to collaborating on software projects, discussing tech education methodologies, or exploring remote/hybrid engineering opportunities."
 
 *   🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
 *   💼 **LinkedIn:** [leo-gomes-dev](https://linkedin.com)
@@ -45,16 +45,16 @@
 
 ---
 
-### 🚀 Projetos JavaScript Full Stack & Materiais
+### 🚀 Full Stack Projects & Code Samples
 
-- 🔗 **Tarefas**: [Repositório](https://github.com) | Site: [Tarefas](https://tarefas.leogomesdev.com)
-- 🔗 **Pneuma**: [Repositório](https://github.com) | Site: [Pneuma](https://pneuma.leogomesdev.com)
-- 🔗 **Combustível**: [Repositório](https://github.com) | Site: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
-- 🔗 **Criptomoedas**: [Repositório](https://github.com) | Site: [Cripto App](https://criptomoedas.leogomesdev.com)
-- 🔗 **Fluxo**: [Repositório](https://github.com) | Site: [Fluxo](https://fluxo.leogomesdev.com)
-- 🔗 **Prime**: [Repositório](https://github.com) | Site: [Prime](https://prime.leogomesdev.com)
+- 🔗 **Tarefas**: [Repository](https://github.com) | Live Demo: [Tarefas](https://tarefas.leogomesdev.com)
+- 🔗 **Pneuma**: [Repository](https://github.com) | Live Demo: [Pneuma](https://pneuma.leogomesdev.com)
+- 🔗 **Combustível**: [Repository](https://github.com) | Live Demo: [Fuel Calculator](https://combustivel.leogomesdev.com)
+- 🔗 **Criptomoedas**: [Repository](https://github.com) | Live Demo: [Cripto App](https://criptomoedas.leogomesdev.com)
+- 🔗 **Fluxo**: [Repository](https://github.com) | Live Demo: [Fluxo](https://fluxo.leogomesdev.com)
+- 🔗 **Prime**: [Repository](https://github.com) | Live Demo: [Prime](https://prime.leogomesdev.com)
   
-- 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
+- 🔗 **Portfolio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
 
