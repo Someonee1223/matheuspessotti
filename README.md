@@ -42,7 +42,7 @@
 * 🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
 * 💼 **LinkedIn:** [leo-gomes-dev](https://linkedin.com)
 * 📸 **Instagram:** [@leogomes_dev](https://instagram.com)
-* 💬 **Discord:** [![Discord](https://shields.io)](https://discordapp.com/channels/1503667201788612628/1503667376686628944)
+* 💬 **Discord:** [Join my server](https://discordapp.com/channels/1503667201788612628/1503667376686628944)
 * 📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
 
 ---
