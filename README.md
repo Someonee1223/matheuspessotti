@@ -23,26 +23,15 @@
 
 ### 🛠️ Ecosystem & Tools
 
-<p align="left">
-  <a href="https://mozilla.org"><img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/></a>
-  <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org"><img src="https://githubusercontent.com" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org"><img src="https://githubusercontent.com" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nestjs.com"><img src="https://githubusercontent.com" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://prisma.io"><img src="https://githubusercontent.com" alt="prisma" width="40" height="40"/></a>
-  <a href="https://w3.org"><img src="https://githubusercontent.com" alt="html5" width="40" height="40"/></a>
-  <a href="https://w3.org"><img src="https://githubusercontent.com" alt="css3" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ---
 
@@ -53,21 +42,25 @@
 * 🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
 * 💼 **LinkedIn:** [leo-gomes-dev](https://linkedin.com)
 * 📸 **Instagram:** [@leogomes_dev](https://instagram.com)
-* 💬 **Discord:** [Join my server](https://discord.gg)
+* 💬 **Discord:** [Join my server](https://discordapp.com/channels/1503667201788612628/1503667376686628944)
 * 📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
 
 ---
 
 ### 🚀 Full Stack Projects & Code Samples
 
-- 🔗 **BarbeSaaS**: [Repository](https://github.com)
-- 🔗 **Tarefas**: Live Demo: [Tarefas](https://leogomesdev.com)
-- 🔗 **Pneuma**: Live Demo: [Pneuma](https://leogomesdev.com)
-- 🔗 **Combustível**: Live Demo: [Fuel Calculator](https://leogomesdev.com)
-- 🔗 **Criptomoedas**: Live Demo: [Cripto App](https://leogomesdev.com)
-- 🔗 **Fluxo**: Live Demo: [Fluxo](https://leogomesdev.com)
-- 🔗 **Prime**: Live Demo: [Prime](https://leogomesdev.com)
+- 🔗 **Tarefas**: [Repository](https://github.com) | Live Demo: [Tarefas](https://tarefas.leogomesdev.com)
+- 🔗 **Pneuma**: [Repository](https://github.com) | Live Demo: [Pneuma](https://pneuma.leogomesdev.com)
+- 🔗 **Combustível**: [Repository](https://github.com) | Live Demo: [Fuel Calculator](https://combustivel.leogomesdev.com)
+- 🔗 **Criptomoedas**: [Repository](https://github.com) | Live Demo: [Cripto App](https://criptomoedas.leogomesdev.com)
+- 🔗 **Fluxo**: [Repository](https://github.com) | Live Demo: [Fluxo](https://fluxo.leogomesdev.com)
+- 🔗 **Prime**: [Repository](https://github.com) | Live Demo: [Prime](https://prime.leogomesdev.com)
   
 - 🔗 **Portfolio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
+
+<!-- ### 👁️ Visitas no perfil -->
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge) -->
+
