@@ -23,15 +23,17 @@
 
 ### 🛠️ Ecosystem & Tools
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![NestJS](https://shields.io)
-![Node.js](https://shields.io)
-![Prisma](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<p align="left">
+  <a href="https://mozilla.org"><img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/></a>
+  <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/></a>
+  <a href="https://reactjs.org"><img src="https://githubusercontent.com" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org"><img src="https://githubusercontent.com" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nestjs.com"><img src="https://githubusercontent.com" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org"><img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://prisma.io"><img src="https://githubusercontent.com" alt="prisma" width="40" height="40"/></a>
+  <a href="https://w3.org"><img src="https://githubusercontent.com" alt="html5" width="40" height="40"/></a>
+  <a href="https://w3.org"><img src="https://githubusercontent.com" alt="css3" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -51,7 +53,7 @@
 * 🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
 * 💼 **LinkedIn:** [leo-gomes-dev](https://linkedin.com)
 * 📸 **Instagram:** [@leogomes_dev](https://instagram.com)
-* 💬 **Discord:** [Join my server](https://discord.gg/M3yQcmKdy)
+* 💬 **Discord:** [Join my server](https://discord.gg)
 * 📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
 
 ---
@@ -69,7 +71,3 @@
 - 🔗 **Portfolio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com" />
-</p>
