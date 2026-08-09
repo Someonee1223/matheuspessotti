@@ -40,9 +40,9 @@
 "Open to collaborating on software projects, discussing tech education methodologies, or exploring remote/hybrid engineering opportunities."
 
 * 🌐 **Website:** [leogomesdev.com](https://leogomesdev.com)
-* 💼 **LinkedIn:** [leo-gomes-dev](https://linkedin.com)
-* 📸 **Instagram:** [@leogomes_dev](https://instagram.com)
-* 💬 **Discord:** [Join my server](https://discord.gg)
+* 💼 **LinkedIn:** [leo-gomes-dev](https://www.linkedin.com/in/leo-gomes-dev)
+* 📸 **Instagram:** [@leogomes_dev](https://www.instagram.com/leogomes_dev)
+* 💬 **Discord:** [Join my server](https://discord.gg/M3yQcmKdy)
 * 📧 **Email:** [contato@leogomesdev.com](mailto:contato@leogomesdev.com)
 
 ---
