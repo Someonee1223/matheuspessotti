@@ -49,7 +49,6 @@
 
 ### 🚀 Full Stack Projects & Code Samples
 
-- 🔗 **BarbeSaaS**: [Repository](https://github.com)
 - 🔗 **Tarefas**: Live Demo: [Tarefas](https://tarefas.leogomesdev.com)
 - 🔗 **Pneuma**: Live Demo: [Pneuma](https://pneuma.leogomesdev.com)
 - 🔗 **Combustível**: Live Demo: [Fuel Calculator](https://combustivel.leogomesdev.com)
