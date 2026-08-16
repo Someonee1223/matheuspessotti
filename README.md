@@ -67,8 +67,6 @@ Gostou dos projetos ou o conteúdo te ajudou de alguma forma? Considere apoiar a
 
 👉 [**Clique aqui para me pagar um café e apoiar o ensino!**](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
 
-[![Mercado Pago](https://shields.io)](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
-
 ---
 
 ### 👁️ Visitas no perfil
