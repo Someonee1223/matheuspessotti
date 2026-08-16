@@ -49,6 +49,19 @@
 
 ### 🚀 Full Stack Projects & Code Samples
 
+| 📁 Projeto | 🌐 Link para Testar |
+| :--- | :--- |
+| 🔗 **Tarefas** | [Visualizar Tarefas](https://leogomesdev.com) |
+| 🔗 **Pneuma** | [Visualizar Pneuma](https://leogomesdev.com) |
+| 🔗 **Combustível** | [Calcular Combustível](https://leogomesdev.com) |
+| 🔗 **Criptomoedas** | [Visualizar Cripto App](https://leogomesdev.com) |
+| 🔗 **Fluxo** | [Visualizar Fluxo](https://leogomesdev.com) |
+| 🔗 **Prime** | [Visualizar Prime](https://leogomesdev.com) |
+| 🔗 **Portfolio** | [Leo Gomes Dev](https://leogomesdev.com) |
+
+<!--
+### 🚀 Full Stack Projects & Code Samples
+
 - 🔗 **Tarefas**: Live Demo: [Tarefas](https://tarefas.leogomesdev.com)
 - 🔗 **Pneuma**: Live Demo: [Pneuma](https://pneuma.leogomesdev.com)
 - 🔗 **Combustível**: Live Demo: [Fuel Calculator](https://combustivel.leogomesdev.com)
@@ -59,6 +72,7 @@
 - 🔗 **Portfolio**: [Leo Gomes Dev](https://leogomesdev.com)
 
 ---
+-->
 
 <!-- ### 👁️ Visitas no perfil -->
 
