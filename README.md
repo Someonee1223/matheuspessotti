@@ -59,21 +59,18 @@
 | 🔗 **Prime** | [Visualizar Prime](https://leogomesdev.com) |
 | 🔗 **Portfolio** | [Leo Gomes Dev](https://leogomesdev.com) |
 
-<!--
-### 🚀 Full Stack Projects & Code Samples
+---
 
-- 🔗 **Tarefas**: Live Demo: [Tarefas](https://tarefas.leogomesdev.com)
-- 🔗 **Pneuma**: Live Demo: [Pneuma](https://pneuma.leogomesdev.com)
-- 🔗 **Combustível**: Live Demo: [Fuel Calculator](https://combustivel.leogomesdev.com)
-- 🔗 **Criptomoedas**: Live Demo: [Cripto App](https://criptomoedas.leogomesdev.com)
-- 🔗 **Fluxo**: Live Demo: [Fluxo](https://fluxo.leogomesdev.com)
-- 🔗 **Prime**: Live Demo: [Prime](https://prime.leogomesdev.com)
-  
-- 🔗 **Portfolio**: [Leo Gomes Dev](https://leogomesdev.com)
+### ☕ Apoie o Ensino de Tecnologia
+
+Gostou dos projetos ou o conteúdo te ajudou de alguma forma? Considere apoiar a produção de materiais didáticos e novos repositórios de código de alta qualidade.
+
+👉 [**Clique aqui para me pagar um café e apoiar o ensino!**](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
+
+[![Mercado Pago](https://shields.io)](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
 
 ---
--->
 
-<!-- ### 👁️ Visitas no perfil -->
+### 👁️ Visitas no perfil
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge) -->
+![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge)
