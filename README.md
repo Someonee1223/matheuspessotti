@@ -19,12 +19,9 @@
   <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" />
 </p>
 
+---
 
 ## 🔗 Let's Connect!
-
-"Open to collaborating on software projects, discussing tech education methodologies, or exploring remote/hybrid engineering opportunities."
-
-### 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/WEBSITE-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leogomesdev.com) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leogomes_dev) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vp7ph87XYE) [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@leogomesdev.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-gomes-dev)
 
