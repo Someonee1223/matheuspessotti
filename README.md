@@ -27,6 +27,8 @@
 
 ---
 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,prisma,typeorm,postgres,mysql,mongodb,html,css,python,cs" />
+
 ## 🔗 Let's Connect!
 
 "Open to collaborating on software projects, discussing tech education methodologies, or exploring remote/hybrid engineering opportunities."
