@@ -37,7 +37,7 @@ I develop web applications and teach programming, focusing on practical and mode
   <tr>
     <td align="center"><b>Fluxo</b><br><a href="https://leogomesdev.com">View ↗</a></td>
     <td align="center"><b>Prime</b><br><a href="https://leogomesdev.com">View ↗</a></td>
-    <td align="center"><b>Gerador de Currículo PDF</b><br><a href="https://gerarcurriculo-3rzc8p397-leonardo-s-projects-8f416124.vercel.app/">View ↗</a></td>
+    <td align="center"><b>Template Restaurante</b><br><a href="https://restaurante-rho-orcin.vercel.app/">View ↗</a></td>
     <td align="center"><b>Gerador de CPF</b><br><a href="https://gerador-cpf-zeta.vercel.app/">View ↗</a></td>
   </tr>
 </table>
