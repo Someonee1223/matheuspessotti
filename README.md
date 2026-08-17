@@ -27,15 +27,11 @@ I develop web applications and teach programming, focusing on practical and mode
 
 ### 🚀 Projects
 
-| Project | Link |
-| :--- | :--- |
-| **Tarefas** | [View](https://leogomesdev.com) |
-| **Pneuma** | [View](https://leogomesdev.com) |
-| **Combustível** | [View](https://leogomesdev.com) |
-| **Criptomoedas** | [View](https://leogomesdev.com) |
-| **Fluxo** | [View](https://leogomesdev.com) |
-| **Prime** | [View](https://leogomesdev.com) |
-| **Portfolio** | [View](https://leogomesdev.com) |
+| **Tarefas** | **Pneuma** | **Combustível** | **Criptomoedas** |
+| :--- | :--- | :--- | :--- |
+| [View ↗](https://leogomesdev.com) | [View ↗](https://leogomesdev.com) | [View ↗](https://leogomesdev.com) | [View ↗](https://leogomesdev.com) |
+| **Fluxo** | **Prime** | **Portfolio** | |
+| [View ↗](https://leogomesdev.com) | [View ↗](https://leogomesdev.com) | [View ↗](https://leogomesdev.com) | |
 
 ---
 
